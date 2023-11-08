@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body, html{
+    height: 100%;
+    background-image: url("../image/9b06456f7c6fd78bff0c93471350302e.jpg");
+    background-position: center;
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+}
+.tudo{
+    width: 100%;
+    text-align: center;
+}
+.center{
+    width: 100%;
+    max-width: 1200px;
+    margin: 200px auto;
+    background-color: rgb(42, 78, 196);
+    border-radius: 10px;
+    box-shadow: 5px 10px 10px rgba(0, 0, 0, 0.461);
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    display: inline-block;
+    position: relative;
+
+
+}
+table{
+    width: 100%;
+    font-size: 30px;
+    margin-top: 20px;
+    background-color: rgba(54, 60, 64, 0.719);
+    text-align: left;
+
+}
+table span{
+    margin-left: 5px;
+}
